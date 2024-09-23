@@ -1,0 +1,6 @@
+Modelo\Computadora.class
+Modelo\Componente.class
+Controladores\CtrlComputadora.class
+com\mycompany\tp3_sql_hql_2\Tp3_sql_hql_2.class
+Controladores\CtrlComponente.class
+Persistencia\HibernateUtil.class
